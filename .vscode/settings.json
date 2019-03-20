@@ -1,0 +1,7 @@
+{
+    "standard.enable": false,
+    "search.exclude": {
+        "**/node_modules": true,
+    },
+    "tslint.configFile": "./tslint.json",
+}
